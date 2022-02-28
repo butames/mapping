@@ -1,0 +1,19 @@
+---
+title: "Shaded Relief Map of Ghana"
+author: "Seyram A. Butame"
+date: "Februray 2022"
+output: 
+  html_notebook:
+    toc: true
+    number_sections: true
+    toc_float: true
+---
+
+
+# Inspriration 
+
+I have found a way to create beautiful relief maps using QGIS and Blender. A relief map is a three-dimensional representation of a particular geographical area. Relief maps or raised relief maps typically show the terrain (e.g., mountains, water bodies), materialized as a physical artifact. 
+
+The information and steps documented below are the result of the hardwork of Joe W. Davis. You can find a link to their work [here](https://github.com/JoeWDavies/geoblender).
+
+I first came across their work on the r/dataisbeautiful subreddit. It was really gorgeous and I was looking to emulate it and thankfully, they created at tutorial. Which I have reproduced for the country of Ghana below.
